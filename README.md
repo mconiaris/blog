@@ -1,5 +1,7 @@
 #README
 
+This legacy branch is the saved repository of what this once was.
+
 This repository is based on the Ruby on Rails tutorial located at http://guides.rubyonrails.org/getting_started.html
 
 This README would normally document whatever steps are necessary to get the
